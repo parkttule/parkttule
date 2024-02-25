@@ -1,7 +1,7 @@
 ## Park Do Yeon
 
 - **Blog** : [**p6rkdoye0n.tistory.com**](https://p6rkdoye0n.tistory.com/)
-- **Gmail** : [**parkttule0305@gmail.com**](mailto:parkttule0305@gmail.com)
+- **Gmail** : [**p6rkdoye0n@dothack.io**](mailto:p6rkdoye0n@dothack.io)
 - **Instagram** : [**@p6rkdoye0n**](https://www.instagram.com/p6rkdoye0n/)
 - **Github** : [**parkttule**](https://github.com/parkttule)
 - **Dreamhack** : [**p6rkdoye0n**](https://dreamhack.io/users/27452/)
