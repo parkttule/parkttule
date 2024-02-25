@@ -13,6 +13,8 @@
 ***Discord*** : **p6rkdoye0n#8282**
 
 
+
+
 ## Organization
 
 - **KOREA University @ [Division of Smart Security](https://gss.korea.ac.kr/ime/info/smart.do#none)**
@@ -22,6 +24,8 @@
 - **HSPACE @ Study Team (Bug Bounty Project)**
 
 
+
+
 ## **Project**
 
 - **과천중앙고 과제연구 필기체 인식** (**[GCJW Handwriting Detection](https://gcjw-handwriting-recognition.netlify.app/)) (2022)**
@@ -29,6 +33,8 @@
 - **WordPress Bug Hunting (Plugin) (Web) (2023)**
 - **BlockChain WEB3** **[vulnerability Research / WarGame Site Creation](https://m.site.naver.com/1hT2m) (2023.11,01 ~ 2024.01.06)**
 - **BlockChain Zero-day vulnerability Research (~ Now)**
+
+
 
 
 ## **Activities**
