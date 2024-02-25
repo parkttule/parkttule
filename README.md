@@ -12,6 +12,7 @@
 
 ***Discord*** : **p6rkdoye0n#8282**
 
+
 ## Organization
 
 - **KOREA University @ [Division of Smart Security](https://gss.korea.ac.kr/ime/info/smart.do#none)**
@@ -20,9 +21,8 @@
 - **KITRI Best Of The Best : [1st WHS](https://www.kitribob.kr/)**
 - **HSPACE @ Study Team (Bug Bounty Project)**
 
-## **Project**
 
----
+## **Project**
 
 - **과천중앙고 과제연구 필기체 인식** (**[GCJW Handwriting Detection](https://gcjw-handwriting-recognition.netlify.app/)) (2022)**
 - **LED AI 동물상 검색 ([LED AI Animal Face Detection](https://led-animal-face.netlify.app/)) (2022)**
@@ -30,9 +30,8 @@
 - **BlockChain WEB3** **[vulnerability Research / WarGame Site Creation](https://m.site.naver.com/1hT2m) (2023.11,01 ~ 2024.01.06)**
 - **BlockChain Zero-day vulnerability Research (~ Now)**
 
-## **Activities**
 
----
+## **Activities**
 
 ### 2023
 
@@ -50,9 +49,8 @@
 - **2023 [POC Conference](https://powerofcommunity.net/) (2023.11.02 ~ 2023.11.03)**
 - **The Hacking Championship Junior (더 해킹 챔피언십 주니어) FINAL (Gold Award : 🏆) (한국교육학술정보원장상) (2023.11.09)**
 
-## Bug Hunting
 
----
+## Bug Hunting
 
 ### WordPress Bug Hunting (Plugin) (Web)
 
