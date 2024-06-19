@@ -9,6 +9,7 @@
 ## Organization
 
 - **KOREA University @ [Division of Smart Security](https://gss.korea.ac.kr/ime/info/smart.do#none)**
+- **Zeno** @ web3 zero-day research, team lead
 - **Blockchain Valley @ [Research Team](https://blog.blockchainvalley.ac/)**
 - **TeamH4C** @ **[WhiteHat Hacking Team.](https://teamh4c.com/)**
 - **High School** **@** [**Gwacheon Jungang High School.**](https://gcja.hs.kr/)
@@ -20,8 +21,8 @@
 
 ## **Project**
 
-- **과천중앙고 과제연구 필기체 인식** (**[GCJW Handwriting Detection](https://gcjw-handwriting-recognition.netlify.app/)) (2022)**
-- **LED AI 동물상 검색 ([LED AI Animal Face Detection](https://led-animal-face.netlify.app/)) (2022)**
+- **Gwacheon Jungang High School AI Handwriting Detection** (**[Handwriting Detection](https://gcjw-handwriting-recognition.netlify.app/)) (2022)**
+- **LED AI Animal Face Detection ([LED AI Project](https://led-animal-face.netlify.app/)) (2022)**
 - **WordPress Bug Hunting (Plugin) (Web) (2023)**
 - **BlockChain WEB3** **[vulnerability Research / WarGame Site Creation](https://m.site.naver.com/1hT2m) (2023.11,01 ~ 2024.01.06)**
 - **BlockChain Zero-day vulnerability Research (~ Now)**
@@ -35,17 +36,17 @@
 
 - **Dreamhack All curriculum graduates (2022.06.12 ~ 2023.02.28)**
 - **2023 POC Security HackingCamp: [Sincere Hacker](https://powerofcommunity.net/) (Winter) (2023.02.11. ~ 2023.02.12)**
-- **CCE ([사이버 공격 방어 대회](https://cce.cstec.kr/)) 2023 FINAL (2023.07.12)**
-- **Kyungwoon University Intelligent Mobility SW Competition (Part : AI) ([1st Place](https://news.imaeil.com/page/view/2023072111510257791)) (Gold Award : 🥇) (경운대학교 총장상) (2023.07.18)**
-- **2023 KDB DEVELOP YOUTH CAMP (3rd Place) (Bronze Award : 🥉) (KDB 나눔재단상) (2023.07.31 ~ 2023.08.03)**
-- **Junction Asia 2023 FINAL (In BUSAN) (2023.08.18 ~ 2023.08.20)**
-- **2023 사이버 보안 챌린지 FINAL (2023.09.01 ~ 2023.09.02)**
-- **글로벌 모의 해킹 대회** **WACON 2023 FINAL (2023.09.02 ~ 2023.09.03)**
-- **Whitehat Contest 2023 (화이트햇 콘테스트) FINAL (2023.09.16)**
+- **CCE ([Cyber Conflict Exercise](https://cce.cstec.kr/)) 2023 FINAL (2023.07.12)**
+- **Kyungwoon University Intelligent Mobility SW Competition (Part : AI) ([1st Place](https://news.zum.com/articles/84544571)) (Gold Award : 🥇) (2023.07.18)**
+- **2023 KDB DEVELOP YOUTH CAMP (3rd Place) (Bronze Award : 🥉) (KDB) (2023.07.31 ~ 2023.08.03)**
+- **[Junction Asia](https://asia.hackjunction.com/home/) 2023 FINAL (In BUSAN) (2023.08.18 ~ 2023.08.20)**
+- **2023 [Cyber Security Challenge](https://sec-challenge.kr/main) FINAL (2023.09.01 ~ 2023.09.02)**
+- **World Hacking Defense Competition [WACON](https://wacon.world/?lang=ko) 2023 FINAL (2023.09.02 ~ 2023.09.03)**
+- **Whitehat Contest 2023 FINAL (2023.09.16)**
 - **ELECCON 2023 (ELEctric sector Cyber CONtest) FINAL (2023.10.25 ~ 2023.10.26)**
-- **JBU CTF (중부대학교 해킹방어대회)** **(Bronze Award : 🥉) (중부대학교 학과장상) (2023.10.27 ~ 2023.10.28)**
+- **JBU CTF (Joonbu University Hacking Competition) (Bronze Award : 🥉) (2023.10.27 ~ 2023.10.28)**
 - **2023 [POC Conference](https://powerofcommunity.net/) (2023.11.02 ~ 2023.11.03)**
-- **The Hacking Championship Junior (더 해킹 챔피언십 주니어) FINAL (Gold Award : 🏆) (한국교육학술정보원장상) (2023.11.09)**
+- **The Hacking Championship FINAL (Gold Award : 🏆) (2023.11.09)**
 
 
 ## Bug Hunting
