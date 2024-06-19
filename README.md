@@ -1,4 +1,4 @@
-## Park Do Yeon
+## Park DoYeon
 
 - **Blog** : [**p6rkdoye0n.tistory.com**](https://p6rkdoye0n.tistory.com/)
 - **Gmail** : [**parkttule0305@gmail.com**](mailto:parkttule0305@gmail.com)
