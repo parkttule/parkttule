@@ -1,16 +1,15 @@
 ## Park DoYeon
 
-- **Blog** : [**p6rkdoye0n.tistory.com**](https://p6rkdoye0n.tistory.com/)
+- **Blog** : [**Park DoYeon (p6rkdoye0n)**](https://medium.com/p6rkdoyeon)
 - **Gmail** : [**parkttule0305@gmail.com**](mailto:parkttule0305@gmail.com)
-- **Instagram** : [**@p6rkdoye0n**](https://www.instagram.com/p6rkdoye0n/)
+- **X** : [**Park Doyeon**](https://x.com/p6rkdoye0n)
 - **Github** : [**p6rkdoye0n**](https://github.com/parkttule)
-- **Dreamhack** : [**p6rkdoye0n**](https://dreamhack.io/users/27452/)
-- **Discord** : **p6rkdoye0n#8282**
 
 
 ## Organization
 
 - **KOREA University @ [Division of Smart Security](https://gss.korea.ac.kr/ime/info/smart.do#none)**
+- **Blockchain Valley @ [Research Team](https://blog.blockchainvalley.ac/)**
 - **TeamH4C** @ **[WhiteHat Hacking Team.](https://teamh4c.com/)**
 - **High School** **@** [**Gwacheon Jungang High School.**](https://gcja.hs.kr/)
 - **KITRI Best Of The Best : [1st WHS](https://www.kitribob.kr/)**
